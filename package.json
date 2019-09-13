@@ -1,0 +1,7 @@
+{
+  "name": "solhint-plugin-example",
+  "version": "1.0.0",
+  "description": "Implementation example of a plugin for Solhint",
+  "main": "index.js",
+  "license": "MIT"
+}
